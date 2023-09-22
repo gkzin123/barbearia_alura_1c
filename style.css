@@ -1,5 +1,9 @@
 body {
-    background: #ccccc;
+    
+}
+.principal{
+background: #ccccc;
+padding: 30%;
 }
 #banner{
     width: 100%;
